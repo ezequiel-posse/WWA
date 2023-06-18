@@ -1,0 +1,10 @@
+body{
+	background-color: black;
+	color: white;
+	
+	font-family: 'Playfair Display', serif;
+}
+h6{
+	color: yellow;
+	font-style: italic;
+}
